@@ -30,7 +30,7 @@ Desarrolladora de sistemas informáticos enfocada en el desarrollo de aplicacion
 ### 📊 GitHub Analytics
 
 <!-- GitHub Stats -->
-
+[![Vane's GitHub stats](https://github-stats-extended.vercel.app/api?username=vrimada)](https://github.com/stats-organization/github-stats-extended)
 ### 🤝 Connect with Me
 
 - GitHub: https://github.com/vrimada
