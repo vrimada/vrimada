@@ -24,7 +24,7 @@ Desarrolladora de sistemas informáticos enfocada en el desarrollo de aplicacion
 ### 📊 GitHub Analytics
 
 <!-- GitHub Stats -->
-[![Vane's GitHub stats](https://github-stats-extended.vercel.app/api?username=vrimada)](https://github.com/stats-organization/github-stats-extended)
+[![Vane's GitHub stats](https://github-stats-extended.vercel.app/api?username=vrimada&theme=algolia)](https://github.com/stats-organization/github-stats-extended)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vrimada&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true)
 
