@@ -7,25 +7,19 @@ Desarrolladora de sistemas informáticos enfocada en el desarrollo de aplicacion
 ### 🛠 Tech Stack
 
 **Backend**
-- C# · .NET · ASP.NET WebForms
-- Node.js · NestJS
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs)
 
 **Frontend**
-- JavaScript · TypeScript
-- Angular · HTML5 · CSS3
-- jQuery
+![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,jquery)
 
 **Mobile**
-- React Native · Expo
+![My Skills](https://skillicons.dev/icons?i=react)
 
 **Databases**
-- Microsoft SQL Server
-- PostgreSQL · SQLite · MySQL
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
 
 **Tools**
-- Git · GitHub
-- Visual Studio · VS Code
-- Swagger · Postman
+![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,swagger,postman)
 
 ### 📊 GitHub Analytics
 
